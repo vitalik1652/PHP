@@ -13,7 +13,7 @@ CREATE TABLE `admin` (
   `pass` varchar(255) NOT NULL
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
-
+something
 
 INSERT INTO `admin` (`id`, `login`, `pass`) VALUES
 (1, 'Admin', 'Admin');
