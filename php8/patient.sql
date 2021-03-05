@@ -18,7 +18,7 @@ something
 INSERT INTO `admin` (`id`, `login`, `pass`) VALUES
 (1, 'Admin', 'Admin');
 
-
+again something
 
 CREATE TABLE `doctors` (
   `id` int(11) NOT NULL,
