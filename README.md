@@ -1,4 +1,4 @@
-## Projekt na zaliczenia przedmiotu PHP: strona internetowa dla stomatologii w języku PHP 
+## Projekt na zaliczenie przedmiotu PHP: strona internetowa dla stomatologii w języku PHP 
 
 - Napisać aplikację internetową  (widok wykorzystuje bootstrapa) umożliwiającą naukę i sprawdzenie znajomości słówek z języka obcego.
 
