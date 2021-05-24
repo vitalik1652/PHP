@@ -1,10 +1,10 @@
-# PHP
-###zaliczenie php
+# Strona internetowa dla stomatologii w języku PHP 
+###zaliczenie przedmiotu PHP
 - Napisać aplikację internetową  (widok wykorzystuje bootstrapa) umożliwiającą naukę i sprawdzenie znajomości słówek z języka obcego.
 
 - Aplikacja jest przeznaczona dla dzieci ze szkoły podstawowej. Językiem interfejsu ma być język polski. 
 
-####Użytkownik niezarejestrowany: 
+###Użytkownik niezarejestrowany: 
 
 - Na stronie głównej powinna zostać wyświetlona lista wszystkich kategorii (obrazki + nazwy) ze słówkami.
 
